@@ -20,3 +20,6 @@ All the code is stored in one file - "main.c"
 
 To play, download the "minesweeper.exe" file and launch it
 
+IMPORTANT: "config.cfg" file should be in one directory with the executable
+
+You can change the size of the board and number of mines by editing "config.cfg"
