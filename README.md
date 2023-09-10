@@ -1,5 +1,6 @@
 # minesweeper_opengl
-A minesweeper game I made at my leisure
+A minesweeper game I made at my leisure.
+
 Technologies used: C, OpenGL
 
 Controls: 
